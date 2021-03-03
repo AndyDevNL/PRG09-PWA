@@ -1,0 +1,20 @@
+{
+    "name": "Andreas PWA",
+    "short_name": "Andreas PWA",
+    "start_url": ".",
+    "background_color": "#4bedff", 
+    "theme_color": "#f50057",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/logoL.png",
+            "sizes": "673x673",
+            "type": "image/png"
+        },
+        {
+            "src": "images/logoXL.png",
+            "sizes": "1345x1345",
+            "type": "image/png"
+        }
+    ]
+}
